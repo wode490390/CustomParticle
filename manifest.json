@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Nukkit Custom Particle Example Resources Pack",
+        "name": "NukkitCustomParticleExample",
+        "uuid": "e3beeb3a-fc8c-c13d-b30b-f9623474c9fa",
+        "version": [12, 0, 1],
+        "min_engine_version": [1, 12, 1]
+    },
+    "modules": [
+        {
+            "description": "Nukkit Custom Particle Example Resources Pack",
+            "type": "resources",
+            "uuid": "d129402a-f64c-18b6-54ee-31e652fbffaf",
+            "version": [12, 0, 1]
+        }
+    ]
+}

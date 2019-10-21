@@ -1,0 +1,13 @@
+{
+    "content": [
+        {
+            "path": "manifest.json"
+        },
+        {
+            "path": "particles/nukkit_custom_particle_example.json"
+        },
+        {
+            "path": "textures/particle/particles.png"
+        }
+    ]
+}
