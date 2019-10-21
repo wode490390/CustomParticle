@@ -1,0 +1,11 @@
+main: cn.wode490390.nukkit.customparticle.CustomParticle
+name: "CustomParticle"
+description: "Custom particle plugin for Nukkit"
+author: "wode490390"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: POSTWORLD
+permissions:
+  particles.command:
+    default: op
